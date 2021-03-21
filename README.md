@@ -17,7 +17,7 @@ The month of August (2019) was selected because it is a beautiful time of the ye
 </ul>
 <br><img src="images/image02.PNG" alt="Customers">
 <ul>
-<li>81% of the users were subscribers of New York Citi Bike.
+<li>81% of the users were subscribers of the New York Citi Bike service.
 </ul>
 <br><img src="images/image03.PNG" alt="Gender Breakdown">
 <ul>
