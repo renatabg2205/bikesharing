@@ -5,11 +5,9 @@
 
 The purpose of this project is to analyze Citi Bike - a bike-sharing business in New York City - to determine the viability of starting a similar service in Des Moines. 
 
+### Tableau: <a href="https://public.tableau.com/profile/renata.grodetzky.barbalat#!/vizhome/BikeSharingChallenge_16162697093050/NYCitibikeStory" target="_blank">NY Citibike Story</a>
 
 ## Results
-
-### Tableau:
-<a href="https://public.tableau.com/profile/renata.grodetzky.barbalat#!/vizhome/BikeSharingChallenge_16162697093050/NYCitibikeStory" target="_blank">NY Citibike Story</a>
 
 The month of August (2019) was selected because it is a beautiful time of the year to rent a bike.
 
