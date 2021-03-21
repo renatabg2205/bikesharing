@@ -12,29 +12,29 @@ The purpose of this project is to analyze Citi Bike - a bike-sharing business in
 The month of August (2019) was selected because it is a beautiful time of the year to rent a bike.
 
 <img src="images/image01.PNG" alt="Number of Rides">
-- There was a total of 2,344,224 rides in the month of August 2019.
+-- There was a total of 2,344,224 rides in the month of August 2019.
 
-<img src="images/image02.PNG" alt="Customers">
-- 81% of the users were subscribers of New York Citi Bike.
+<br><img src="images/image02.PNG" alt="Customers">
+-- 81% of the users were subscribers of New York Citi Bike.
 
-<img src="images/image03.PNG" alt="Gender Breakdown">
-- Approximately 65% of the trips were taken by male users.
+<br><img src="images/image03.PNG" alt="Gender Breakdown">
+-- Approximately 65% of the trips were taken by male users.
 
-<img src="images/image04.PNG" alt="Checkout Times for Users">
-- Most bikes are checked out for less than 1 hour.
+<br><img src="images/image04.PNG" alt="Checkout Times for Users">
+-- Most bikes are checked out for less than 1 hour.
 
-<img src="images/image05.PNG" alt="Checkout Times by Gender">
-- Male users checked out bikes approximately 3 times more than female users.
+<br><img src="images/image05.PNG" alt="Checkout Times by Gender">
+-- Male users checked out bikes approximately 3 times more than female users.
 
-<img src="images/image06.PNG" alt="Trips by Weekday per Hour">
-- During weekdays most rides occur from 7AM to 9AM and from 5PM to 7PM. On weekends, the higher demand is between 10AM and 7PM.
+<br><img src="images/image06.PNG" alt="Trips by Weekday per Hour">
+-- During weekdays most rides occur from 7AM to 9AM and from 5PM to 7PM. On weekends, the higher demand is between 10AM and 7PM.
 
-<img src="images/image07.PNG" alt="Trips by Gender (Weekday per Hour)">
-- Female and male users display the same trend, although male users utilize more this service.
+<br><img src="images/image07.PNG" alt="Trips by Gender (Weekday per Hour)">
+-- Female and male users display the same trend, although male users utilize more this service.
 
-<img src="images/image08.PNG" alt="User Trips by Gender by Weekday">
-- Among subscribers, the most popular days are Thursday, Friday, Tuesday and Monday. Sunday is the day with the lowest utilization. Among regular customers, the most popular day is Saturday.
-- Males rent more than females. 
+<br><img src="images/image08.PNG" alt="User Trips by Gender by Weekday">
+-- Among subscribers, the most popular days are Thursday, Friday, Tuesday and Monday. Sunday is the day with the lowest utilization. Among regular customers, the most popular day is Saturday.
+-- Males rent more than females. 
 
 
 ## Summary
